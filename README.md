@@ -28,18 +28,16 @@
 
 ### Project Overview
 
-- "Prep" all the ingredients required for the meals by pasting it into the `prep/ingredients.md` file
-  - Decide as a group who commits what
-  - There should be no missing or repeating ingredients
-  - Ingredients should be numbered to make counting easier
-- Groups will create and push directories named after the group they are assigned to
-  - And create their respective meals by copying/pasting from `prep/recipes.md` into `<meal-name>.md` under the appropiate folder
-- Once all meals are pushed to the repo, everyone will put their names in `serve.md` under **CHEFS** and also put the names of the meals being served.
+- "Prep" by pasting the ingredients for meals into the `prep/ingredients.md`
+  - **REQUIREMENT**: no missing or repeating ingredients
+- Create directory for the mealtypes and create the meals:
+  - By copying/pasting from `prep/recipes.md` into `<meal-name>.md` under the appropiate directory
+- Put the names of the meals being served
+- Put names of all members in `serve.md` under **CHEFS**
 
-### Git exercises
+### Git "exercises"
 
-- Screenshot commit history at the end of project
-- Re-do the project and use `rebase` this time
-  - screenshot commit history and observe the differences
+- Observe commit history at the end of project
+- Use `rebase` and `squash` and view how it changes commit history
 - Fix merge conflicts and explore different tools for resolving conflicts
 - Use `git diff` and explore different tools for viewing `git diff`
