@@ -1,6 +1,6 @@
 # Serving...
 
-## MEAL 1 (replace this text with the actual meal name)
+## Pancakes
 
 ## MEAL 2 (replace this text with the actual meal name)
 
