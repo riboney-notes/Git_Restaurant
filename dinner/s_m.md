@@ -21,4 +21,8 @@
   2. Form into balls
   3. Refrigeriate
   4. Saute onions and garlic
-
+  5. Stir in tomatoes, salt, and sugar
+  6. Simmer 90 minutes
+  7. Stir in tomato paste, basil, pepper, and meatballs
+  8. Simmer 30 minutes
+  9. Serve
