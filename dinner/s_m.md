@@ -6,3 +6,12 @@
   3. Parsley
   4. Parmesan cheese
   5. Garlic powder
+  6. Egg
+  7. Onion
+  8. Garlic
+  9. Canned tomatoes
+  10. Salt
+  11. Sugar
+  12. Tomato paste
+  13. Basil
+  14. Black pepper
