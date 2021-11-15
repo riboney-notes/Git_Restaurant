@@ -15,3 +15,10 @@
   12. Tomato paste
   13. Basil
   14. Black pepper
+
+  - Steps:
+  1. Combine beef, bread crumbs, parsley, cheese, pepper, garlic powder, and egg
+  2. Form into balls
+  3. Refrigeriate
+  4. Saute onions and garlic
+
