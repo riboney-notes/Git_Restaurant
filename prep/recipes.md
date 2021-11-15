@@ -1,6 +1,30 @@
 # Recipes
 
-- These are the recipes that will be used to make the meals
+## Total Ingredients
+
+1. flour
+2. baking powder
+3. salt
+4. milk
+5. egg
+6. butter
+7. bacon
+8. lettuce
+9. tomato
+10. bread
+11. Mayonnaise
+12. ground beef
+13. bread crumbs
+14. parsley
+15. parmesan cheese
+16. garlic powder
+17. oniopn
+18. garlic
+19. canned tomatoes
+20. sugar
+21. tomato paste 
+22. basil
+23. black pepper
 
 ## Breakfast
 
