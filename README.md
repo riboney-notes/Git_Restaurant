@@ -21,17 +21,21 @@
 
 ## Project Description
 
-- The main idea of this project is to work with text files to simulate working with code, which allows anyone to participate regardless of their coding experience
-- Participants will be creating a *Three course meal* or *Breakfast, Lunch, and Dinner* 🍽
-   - This will consist of pushing commits that contain the ingredients & cooking steps & possibly pictures of the food, into each meal's folder
-- Here are some ideas participants can do to simulate real-life software project scenarios: 
-   - Create a "bug" for the team to solve in the form of a complaint with a meal's ingredient and a request to change it for another ingredient
-   - Have members work on the same file and push commits at the same time to force merge conflicts
-   - Investigate the source of a food poisioning by analyzing the `git log` and using `git graph` and finding which commit was responsble for the poison
-   - Remove a meal from the code base by reverting a merge
-
-## Tasks
-
-- [ ] Fork the repository 
-- [ ] If more than 2 people, divide up people to *breakfast, lunch, dinner* teams
-- [ ] ...
+- **Main idea:** work text files to simulate working with code and real-life development scenarios
+   - *WHY*: allows anyone to participate regardless of their coding experience
+- **What**: Participants will be creating a *Three course meal* or *Breakfast, Lunch, and Dinner* 🍽
+   - *How*: pushing commits each meal's folder
+      - Commits will contain: ingredients, cooking steps/actions, pictures
+- **Potential tasks**: 
+   - *Scenario*: A recipe for a meal needs to be changed 
+      - *Reason*: Changing app requirements during development
+      - *Outcome*: Get exposure to creating git issues and handling it with feature branching workflow
+   - *Scenario*: Have two people team up like Remy and Alfredo from Ratatouille on the same meal
+      - *Reason*: Have members work on the same file and push commits at the same time to create merge conflicts 
+      - *Outcome*: Learning to handle merge conflicts and sync with `main` when merging commits
+   - *Scenario*: Investigate the source of a food poisioning 
+      - *Reason*: Analyzing commit history to find which commit was responsble for the "poison"
+      - *Outcome*: using the `git log` and using `git graph`  
+   - *Scenario*: Customer hates the meal and sends it back
+      - *Reason*: Remove recent merges into git main 
+      - *Outcome*: Learning to revert commits and bring back codebase to an earlier version 
