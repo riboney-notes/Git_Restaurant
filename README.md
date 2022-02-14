@@ -10,7 +10,7 @@
 - Customize git & github: [instructions](https://kbroman.org/github_tutorial/pages/first_time.html)
 - Clone git repository: [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-### Project Goals
+### Goals
 
 - [ ] Handle merge conflicts
 - [ ] Get exposure to feature branching 
@@ -19,18 +19,21 @@
 - [ ] Modifying commit history with git rebase and git squash 
 - [ ] Being able to revert changes with git
 
-## Project Description
+## Description
 
-- **Main idea:** work text files to simulate working with code and real-life development scenarios
-   - *WHY*: allows anyone to participate regardless of their coding experience
-- **What**: Participants will be creating a *Three course meal* or *Breakfast, Lunch, and Dinner* 🍽
-   - *How*: pushing commits each meal's folder
-      - Commits will contain: ingredients, cooking steps/actions, pictures
-- **Potential tasks**: 
+- **WHAT**: 
+   - Work on text files to simulate working with code and real-life development scenarios
+- **WHY**: 
+   - Allow anyone, regardless of coding experience, to participate and learn to work with git
+- **HOW**
+   - Participants will be working on a *Three course meal* 🍽
+   - **WTF?**: 
+      - *Work* - git commits consisting of ingredients, cooking steps/actions, pictures, etc that will be pushed to each respective meal's folder
+- **Scenarios!**: 
    - *Scenario*: A recipe for a meal needs to be changed 
       - *Reason*: Changing app requirements during development
       - *Outcome*: Get exposure to creating git issues and handling it with feature branching workflow
-   - *Scenario*: Have two people team up like Remy and Alfredo from Ratatouille on the same meal
+   - *Scenario*: Have two people team up (*like Remy🐭 and Alfredo🧑‍🍳 from Ratatouille*)
       - *Reason*: Have members work on the same file and push commits at the same time to create merge conflicts 
       - *Outcome*: Learning to handle merge conflicts and sync with `main` when merging commits
    - *Scenario*: Investigate the source of a food poisioning 
