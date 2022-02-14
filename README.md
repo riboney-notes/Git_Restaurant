@@ -28,7 +28,7 @@
 - **HOW**
    - Participants will be working on a *Three course meal* 🍽
    - **WTF?**: 
-      - *Work* - git commits consisting of ingredients, cooking steps/actions, pictures, etc that will be pushed to each respective meal's folder
+      - Participants will create git commits consisting of ingredients, cooking actions, pictures, etc to create "meals"
 - **Scenarios!**: 
    - *Scenario*: A recipe for a meal needs to be changed 
       - *Reason*: Changing app requirements during development
